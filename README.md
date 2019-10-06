@@ -29,3 +29,5 @@ Git introduction workshop held to introduce students to Open Source
 ### Nipul Singal
 - IT 1st year
 
+### Aakash Sangwan
+- CSE 2nd Year
