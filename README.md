@@ -29,3 +29,52 @@ Git introduction workshop held to introduce students to Open Source
 ### Nipul Singal
 - IT 2nd year(3rd Sem)
 
+### Shorya Jain
+- IT 2nd year
+
+### Ritvik Singh Rautela
+- CSE 3rd year
+
+### Yogesh kumar 
+- CSE 1st year
+
+### Divyansh Rastogi
+- IT 1st year
+
+### Tanya Agrawal
+- IT 1st year
+
+### Kaustubh Singh Rautela 
+- My Brothers run this club
+
+### Ashutosh Varma
+- CSE 1st Year
+
+### Vivek Sharma
+- IT 2nd Year
+
+### Shivali Gakhar
+- IT 1st year
+
+### Sanket Shivam
+- ECE 1st Year
+
+### Amay Kumar
+- IT 1st year
+
+### Sanyam Jain
+- ECE 1st Year
+
+### Manorit Chawdhry 
+- CSE 1st Year
+
+### Anshika Mankotia
+- CSE 1st year
+
+### Devansh Bindlish
+- IT 1st Year
+
+### Gaurav Jain
+- CSE 1st Year
+### Aakash
+- CSE 2nd Year
